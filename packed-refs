@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+e87968ee19fdbde0493cda968c54571755a1e768 refs/remotes/origin/master
+57fa15ce150a6916f929ba461d67579d389934ab refs/remotes/origin/revert-29-delete-confirmation
+49770f56632c76bbb27e2988dee3a942b809be51 refs/remotes/origin/revert-32-mandatory-field-indicator
